@@ -1,0 +1,30 @@
+* { /* Setting all content to the center*/
+    text-align: center;
+}
+
+.main {
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-div, .contact {
+    background-color: black;
+}
+
+.profile-info, .contact {
+    font-family: Arial,sans-serif;
+}
+
+
+.about {
+    color: grey;
+    font-size: 1.25rem;
+}
+.contact {
+    color: #fff;
+    line-height: 2rem;
+    font-size: 20px;
+}
